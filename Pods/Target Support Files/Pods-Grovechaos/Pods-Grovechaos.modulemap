@@ -1,0 +1,6 @@
+framework module Pods_Grovechaos {
+  umbrella header "Pods-Grovechaos-umbrella.h"
+
+  export *
+  module * { export * }
+}
